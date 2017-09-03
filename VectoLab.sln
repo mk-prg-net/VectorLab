@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorLib", "VectorLib\VectorLib.csproj", "{A5021D93-CD4D-4F55-8B73-5A24D8582768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorLib.Test", "VectorLib.Test\VectorLib.Test.csproj", "{449E6F6F-C0DA-4AE4-95BC-7460FE184FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5021D93-CD4D-4F55-8B73-5A24D8582768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5021D93-CD4D-4F55-8B73-5A24D8582768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5021D93-CD4D-4F55-8B73-5A24D8582768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5021D93-CD4D-4F55-8B73-5A24D8582768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449E6F6F-C0DA-4AE4-95BC-7460FE184FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449E6F6F-C0DA-4AE4-95BC-7460FE184FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449E6F6F-C0DA-4AE4-95BC-7460FE184FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449E6F6F-C0DA-4AE4-95BC-7460FE184FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
